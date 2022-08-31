@@ -58,6 +58,9 @@ svg {
 .heart-icon.favourite {
     fill: red;
 }
+.repeat-icon.active {
+    color: #5e5e5e;
+}
 
 .music-singer {
     font-size: 20px;
